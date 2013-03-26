@@ -7,7 +7,7 @@ ToolKit javascript libraries ready to use to create parallax effects, include:
 
 -jparallax https://github.com/stephband/jparallax
 
--imagePreLoader:
+-imagePreLoader (Jose Mendez):
 imagePreLoader v1
 ==============
 
