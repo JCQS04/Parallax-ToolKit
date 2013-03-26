@@ -2,7 +2,9 @@ Parallax-ToolKit Framework
 ================
 
 ToolKit javascript libraries ready to use to create parallax effects, include:
+
 -skrollr (v 0.5.14) https://github.com/Prinzhorn/skrollr
+
 -jparallax https://github.com/stephband/jparallax
 
 -imagePreLoader:
